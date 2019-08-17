@@ -1,7 +1,7 @@
 ![Awesome Creative Portfolio Websites](https://github.com/Dibash7/dibash7.github.io/blob/master/avatar.jpg)
 >🎨 Check out my **portfolio** below,
 
-# My web development portfolio ![Awesome](https://github.com/Dibash7/dibash7.github.io/blob/master/awesome.svg)
+# My web development portfolio ![Awesome](https://github.com/Dibash7/dibash7.github.io/blob/master/img/awesome.svg)
 
 
 ## [Live Website](http://dibash7.github.io) 🎙 

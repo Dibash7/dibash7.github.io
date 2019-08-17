@@ -130,7 +130,7 @@ body {
 
 .header {
     height: 95vh;
-    background-image: linear-gradient(to right bottom, rgba(85, 197, 122, 0.45), rgba(40, 180, 133, 0.45)), url(frog.jpg);
+    background-image: linear-gradient(to right bottom, rgba(85, 197, 122, 0.45), rgba(40, 180, 133, 0.45)), url(./img/frog.jpg);
     background-size: cover;
     background-position: top;
     position: relative;
@@ -194,7 +194,7 @@ body {
     align-items: center;
     margin: 5vw;
     font-family: Roboto, sans-serif;
-    background: linear-gradient(to bottom right, rgba(227, 93, 64, 0.2), rgba(236, 149, 130, 0.4)), url(Bg.png);
+    background: linear-gradient(to bottom right, rgba(227, 93, 64, 0.2), rgba(236, 149, 130, 0.4)), url(./img/Bg.png);
     border-radius: 20px;
 }
 
